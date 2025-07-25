@@ -1,49 +1,18 @@
 
 
-<div align="center">
-
-  <h1>Hi there, I'm Yohannis Adamu 👋</h1>
-  <h3>Software Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
-
-  <a href="https://www.linkedin.com/in/yohannis-adamu-1837832b9">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Johannes613">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://x.com/john40336738581">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:yohannisadmasu05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
-<br/>
-
+<h1 align="center">Hi, I'm Yohannis Adamu</h1>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Johannes613&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- About Me + GIF side by side with no border -->
-<table>
-  <tr>
-    <td style="vertical-align: top; width: 60%;">
-      
-<h3>👨‍🎓 About Me</h3>
+- 🎓 I'm a Software Engineering student at **Abu Dhabi University**
 
-- 🎓 I'm a Software Engineering student at **Abu Dhabi University**.  
-- 💡 Passionate about building intelligent software using **AI** and **full-stack development**.  
-- 💬 Ask me about **React**, **Python**, **Machine Learning**, and anything tech.  
-- 📫 Reach me at: **yohannisadmasu05@gmail.com**
+- 💡 Passionate about building intelligent software using **AI** and **full-stack development**
 
-   </td>
-   <td style="text-align: center; width: 40%;">
-     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coder GIF" />
-   </td>
-  </tr>
-</table>
+- 💬 Ask me about **React**, **Python**, **AI**, and anything tech
+
+- 📫 Reach me at: [yohannisadmasu05@gmail.com](mailto:yohannisadmasu05@gmail.com)
 
 
 
@@ -68,7 +37,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
 
 
 ## 📊 GitHub Stats
