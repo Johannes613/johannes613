@@ -1,28 +1,32 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coder GIF"/>
+  
+  # Hi there, I'm Yohannis Adamu 👋  
+  ### Software Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 
-<h1 align="center">I'm Yohannis Adamu</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer | AI/ML Enthusiast</h3>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohannis-adamu-1837832b9)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Johannes613)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/john40336738581)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yohannisadmasu05@gmail.com)
+</div>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
-</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Johannes613&label=Profile%20views&color=0e75b6&style=flat" alt="Johannes613" />
 </p>
 
-- Third-year Software Engineering student at **Abu Dhabi University**  
-- Focused on building real-world solutions through **AI/ML**, **full-stack web development**, and **intelligent systems**
+🎓 I'm a third-year Software Engineering student at **Abu Dhabi University** passionate about building intelligent and impactful software solutions.
+
+💡 I love working at the intersection of **AI/ML** and **full-stack development**, and I'm always seeking new challenges to grow as a developer.
+
+💬 **Ask Me About**: React, Python, Machine Learning.
+
+📫 **Contact Me**: yohannisadmasu05@gmail.com
 
 
-### Contact Me
+## 🛠️ Technologies & Tools
 
-[<img height="28px" src="https://img.icons8.com/color/48/gmail--v1.png" />](mailto:johannesad06@gmail.com)
-[<img height="28px" src="https://img.icons8.com/color/48/linkedin.png" />](https://www.linkedin.com/in/yohannisad)
-[<img height="28px" src="https://img.icons8.com/color/48/github.png" />](https://github.com/Johannes613)
-[<img height="28px" src="https://img.icons8.com/color/48/whatsapp--v1.png" />](https://wa.me/971XXXXXXXXX)
-
-
-### Skills & Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,9 +46,12 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-### GitHub Stats
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Johannes613&show_icons=true&theme=default&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Johannes613&theme=default&hide_border=true" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Johannes613&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Johannes613&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
+</div>
+
+
