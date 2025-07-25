@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coder GIF"/>
   
   # Hi there, I'm Yohannis Adamu 👋  
-  ### Software Engineering Student | Full-Stack Developer | AI/ML Enthusiast
+  ### Software Engineering Student | Full-Stack Developer | AI Enthusiast
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohannis-adamu-1837832b9)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Johannes613)
@@ -16,9 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=Johannes613&label=Profile%20views&color=0e75b6&style=flat" alt="Johannes613" />
 </p>
 
-🎓 I'm a third-year Software Engineering student at **Abu Dhabi University** passionate about building intelligent and impactful software solutions.
+🎓 I'm a Software Engineering student at **Abu Dhabi University** passionate about building intelligent software solutions.
 
-💡 I love working at the intersection of **AI/ML** and **full-stack development**, and I'm always seeking new challenges to grow as a developer.
+💡 I love working at the intersection of **AI** and **full-stack development**.
 
 💬 **Ask Me About**: React, Python, Machine Learning.
 
@@ -35,6 +35,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React Native](https://img.shields.io/badge/react--native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,6 +45,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
